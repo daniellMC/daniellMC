@@ -55,7 +55,7 @@
     />
   </a>
 </p>
-
+![Snake animation](https://github.com/daniellMC/daniellMC/blob/output/github-contribution-grid-snake.svg)
 
 
 
