@@ -44,16 +44,6 @@
       alt="linkedin"
     />
   </a>
-  <a
-    href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGKZfTDBxWSSrPfvsBsWFsJgxCNkwQQLgWrFMcPnthBmPjcLVQZSlxVGhfbfRjXQtxplwhS"
-    target="_blank"
-  >
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-DanielMC-05122A?style=flat&logo=gmail"
-      alt="gmail"
-    />
-  </a>
 </p>
 
 
