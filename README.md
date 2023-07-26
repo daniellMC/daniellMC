@@ -6,7 +6,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **PHP, SQL**
+- 🌱 I’m currently learning **React, TypeScript**
 - 💬 Ask me about **JavaScript, HTML, CSS**
 <br />
 
