@@ -1,10 +1,4 @@
 <h1 align="left">Hi I'm Daniel Machado</h1>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=daniellMC&color=red"
-    alt="Profile views"
-  />
-</p>
 
 - 🌱 I’m currently learning **Nextjs, PrismaORM**
 <br />
