@@ -1,13 +1,13 @@
-<h1 align="left">Hi I'm Daniel Machado</h1>
-
-- 🌱 I’m currently learning **Nextjs, PrismaORM**
+<h2 align="left">👋 >_Hello!</h2>
+Greetings! I am a full-stack developer who has accumulated experience over a number of years, mainly through involvement in personal and school projects. I have a strong passion for programming and am delving into cybersecurity which is my current area of interest through different courses and self-teaching. I enjoy staying updated with the latest trends as well as coding best practices. 
 <br />
 
-## 🛠 Tech Stack
+## 📊 >_ Stats
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellMC&layout=compact&langs_count=4&theme=jolly"/>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-<br /><br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daniellMC&theme=jolly)](https://git.io/streak-stats)
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniel-machado-cs"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
