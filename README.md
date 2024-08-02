@@ -6,7 +6,7 @@ Greetings! I am a full-stack developer who has accumulated experience over a num
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellMC&layout=compact&langs_count=4&theme=jolly"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=daniellMC&theme=jolly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniellMC&theme=jolly)](https://git.io/streak-stats)
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-machado-cs"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
